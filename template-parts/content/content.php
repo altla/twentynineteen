@@ -29,7 +29,7 @@
 
 	<footer class="entry-footer">
 		<?php 
-		// twentynineteen_entry_footer(); 
+		twentynineteen_entry_footer(); 
 		?>
 	</footer><!-- .entry-footer -->
 </article><!-- #post-${ID} -->
